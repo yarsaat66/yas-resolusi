@@ -3,7 +3,10 @@ RENCANA KONTEN WPU
 1. JAVASCRIPT
     1.1 vanila JS
     1.2 Framework
+        1.2.1 VueJS
+        1.2.2 ReactJS
 2. PHP FRAMEWORK
 3. Struktur Data Dasar
 3. INTERVIEW
 4. VLOG
+5. Python
